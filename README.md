@@ -14,3 +14,9 @@ The dataset includes a variety of mobile phone information available on Flipkart
 - *Specifications*: Mobile specifications like RAM, Storage, Battery Capacity, etc.
 - *Discounts*: Percentage of discounts offered on Flipkart.
 
+## 📊 Tools & Libraries Used
+- *Python*: For data manipulation and analysis
+- *Pandas*: For handling the dataset and data frames
+- *Matplotlib & Seaborn*: For data visualization
+- *NumPy*: For numerical operations
+- *Jupyter Notebooks*: To document the analysis in a clear and interactive format
